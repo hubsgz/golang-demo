@@ -1,4 +1,4 @@
 sorter
 ======
 
-golang 的一个demo sorter 
+golang 的一些demo  
